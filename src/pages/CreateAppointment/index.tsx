@@ -2,7 +2,7 @@ import React, { useCallback } from 'react';
 import { useRoute, useNavigation } from '@react-navigation/native';
 import Icon from 'react-native-vector-icons/Feather';
 
-import { useAuth } from 'src/hooks/auth';
+import { useAuth } from '../../hooks/auth';
 
 import {
   Container,

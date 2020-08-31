@@ -17,7 +17,7 @@ export const Header = styled.View`
 
 export const BackButton = styled.TouchableOpacity``;
 
-export const HeaderTitle = styled.View`
+export const HeaderTitle = styled.Text`
   color: #f5ede8;
   font-family: 'RobotoSlab-Medium';
   font-size: 20px;
